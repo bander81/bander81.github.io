@@ -1,0 +1,49 @@
+* {
+	margin: auto;
+	font: Arial;
+
+}
+
+body {
+	background-color: #ffe5e5;
+}
+
+img {
+	height: 250px;
+	width: 250px;
+}
+
+div {
+	height: 50px;
+	width: 200px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: block;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+#one {
+	background-color: #ffff66;
+}
+
+#two {
+	background-color: #00cc7a;
+}
+
+#three {
+	background-color: #66b2ff;
+}
+
+#four {
+	background-color: #ffa64d;
+}
+h1 {color: purple;
+font-size: 40px;
+font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	}
